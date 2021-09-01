@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @msaad2110
 - 👀 I’m interested in programming and cloud computing
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 You can reach me at msaad2110@gmail.com
+- ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 
 <!---
 msaad2110/msaad2110 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
